@@ -9,6 +9,7 @@ The application should be very simple by design and should only have the followi
 
 - Ingest a list of words in a text file line by line and save them in a json
 - The known words should be saved in the local storage of the browser
+- Wrong guesses should be tracked and saved in local storage to improve learning
 - this should be a single page application with no backend
 - only the ingestation script should be run outside the browser and use openrouter api to get the translations and example sentences
 - the application has only one view where the user sees the sentence with the word to learn, an input field to type the translation and a button to submit the translation

@@ -22,7 +22,36 @@ const openrouter = new OpenRouter({ apiKey });
 let existingWords: Word[] = [];
 if (existsSync(OUTPUT_FILE)) {
   try {
-    existingWords = JSON.parse(readFileSync(OUTPUT_FILE, "utf-8"));
+    const rawData = JSON.parse(readFileSync(OUTPUT_FILE, "utf-8"));
+    console.log(`Found ${rawData.length} existing words`);
+
+    // Filter out words where sentence doesn't contain the word
+    const validWords = rawData.filter((word: Word) => {
+      const wordLower = word.word.toLowerCase();
+      const sentenceLower = word.sentence.toLowerCase();
+      const containsWord = sentenceLower.includes(wordLower);
+
+      if (!containsWord) {
+        console.log(
+          `  ✗ Removing "${word.word}" - sentence doesn't contain word: "${word.sentence}"`
+        );
+      }
+
+      return containsWord;
+    });
+
+    existingWords = validWords;
+
+    if (validWords.length !== rawData.length) {
+      console.log(
+        `Cleaned data: removed ${
+          rawData.length - validWords.length
+        } invalid records`
+      );
+      writeFileSync(OUTPUT_FILE, JSON.stringify(existingWords, null, 2));
+    } else {
+      console.log("All existing records are valid");
+    }
   } catch {
     existingWords = [];
   }

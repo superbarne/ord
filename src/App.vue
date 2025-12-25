@@ -1,14 +1,18 @@
 <script setup lang="ts">
-import { ref, computed, nextTick, onMounted } from 'vue'
-import type { Word } from './types'
+import { ref, computed, nextTick, onMounted, watch } from 'vue'
+import type { Word, WordStats } from './types'
 
 const words = ref<Word[]>([])
 const learnedWords = ref<Set<string>>(new Set())
+const wrongGuesses = ref<Map<string, WordStats>>(new Map())
 const userInput = ref('')
 const lastResult = ref<{ correct: boolean; word: string; answer: string } | null>(null)
 const inputRef = ref<HTMLInputElement | null>(null)
 const loading = ref(true)
 const error = ref<string | null>(null)
+
+const LEARNED_WORDS_KEY = 'ord-learned-words'
+const WRONG_GUESSES_KEY = 'ord-wrong-guesses'
 
 const remainingWords = computed(() => 
   words.value.filter(w => !learnedWords.value.has(w.word))
@@ -27,6 +31,48 @@ const highlightedSentence = computed(() => {
   const regex = new RegExp(`(${word})`, 'gi')
   return sentence.replace(regex, '<mark class="bg-black text-white px-1">$1</mark>')
 })
+
+function loadLearnedWords() {
+  try {
+    const stored = localStorage.getItem(LEARNED_WORDS_KEY)
+    if (stored) {
+      const learnedArray = JSON.parse(stored)
+      learnedWords.value = new Set(learnedArray)
+    }
+  } catch (error) {
+    console.error('Failed to load learned words from localStorage:', error)
+  }
+}
+
+function saveLearnedWords() {
+  try {
+    const learnedArray = Array.from(learnedWords.value)
+    localStorage.setItem(LEARNED_WORDS_KEY, JSON.stringify(learnedArray))
+  } catch (error) {
+    console.error('Failed to save learned words to localStorage:', error)
+  }
+}
+
+function loadWrongGuesses() {
+  try {
+    const stored = localStorage.getItem(WRONG_GUESSES_KEY)
+    if (stored) {
+      const wrongGuessesArray: WordStats[] = JSON.parse(stored)
+      wrongGuesses.value = new Map(wrongGuessesArray.map(stats => [stats.word, stats]))
+    }
+  } catch (error) {
+    console.error('Failed to load wrong guesses from localStorage:', error)
+  }
+}
+
+function saveWrongGuesses() {
+  try {
+    const wrongGuessesArray = Array.from(wrongGuesses.value.values())
+    localStorage.setItem(WRONG_GUESSES_KEY, JSON.stringify(wrongGuessesArray))
+  } catch (error) {
+    console.error('Failed to save wrong guesses to localStorage:', error)
+  }
+}
 
 async function loadWords() {
   try {
@@ -68,6 +114,20 @@ async function checkAnswer() {
   
   if (isCorrect) {
     learnedWords.value.add(currentWord.value.word)
+  } else {
+    // Track wrong guess
+    const word = currentWord.value.word
+    const existing = wrongGuesses.value.get(word)
+    if (existing) {
+      existing.wrongGuesses++
+      existing.lastWrongGuess = Date.now()
+    } else {
+      wrongGuesses.value.set(word, {
+        word,
+        wrongGuesses: 1,
+        lastWrongGuess: Date.now()
+      })
+    }
   }
   
   userInput.value = ''
@@ -81,7 +141,13 @@ function handleKeydown(e: KeyboardEvent) {
   }
 }
 
+// Watch for changes and save to localStorage
+watch(learnedWords, saveLearnedWords, { deep: true })
+watch(wrongGuesses, saveWrongGuesses, { deep: true })
+
 onMounted(() => {
+  loadLearnedWords()
+  loadWrongGuesses()
   loadWords()
 })
 </script>
