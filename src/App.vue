@@ -1,30 +1,24 @@
 <script setup lang="ts">
-import { ref, computed, nextTick } from 'vue'
+import { ref, computed, nextTick, onMounted } from 'vue'
 import type { Word } from './types'
 
-// Mock data
-const words: Word[] = [
-  { word: 'hej', translationDE: 'hallo', sentence: 'Hej, hvordan har du det?' },
-  { word: 'tak', translationDE: 'danke', sentence: 'Tak for hjælpen!' },
-  { word: 'god', translationDE: 'gut', sentence: 'Det er en god ide.' },
-  { word: 'dag', translationDE: 'tag', sentence: 'God dag, min ven!' },
-  { word: 'ja', translationDE: 'ja', sentence: 'Ja, det er rigtigt.' },
-]
-
+const words = ref<Word[]>([])
 const learnedWords = ref<Set<string>>(new Set())
 const userInput = ref('')
 const lastResult = ref<{ correct: boolean; word: string; answer: string } | null>(null)
 const inputRef = ref<HTMLInputElement | null>(null)
+const loading = ref(true)
+const error = ref<string | null>(null)
 
 const remainingWords = computed(() => 
-  words.filter(w => !learnedWords.value.has(w.word))
+  words.value.filter(w => !learnedWords.value.has(w.word))
 )
 
 const currentWord = computed(() => remainingWords.value[0] || null)
 
 const progress = computed(() => ({
   learned: learnedWords.value.size,
-  total: words.length,
+  total: words.value.length,
 }))
 
 const highlightedSentence = computed(() => {
@@ -33,6 +27,33 @@ const highlightedSentence = computed(() => {
   const regex = new RegExp(`(${word})`, 'gi')
   return sentence.replace(regex, '<mark class="bg-black text-white px-1">$1</mark>')
 })
+
+async function loadWords() {
+  try {
+    loading.value = true
+    error.value = null
+    const response = await fetch('/words.json')
+    if (!response.ok) {
+      throw new Error('Failed to load words')
+    }
+    words.value = await response.json()
+    
+    // Shuffle words for random order
+    for (let i = words.value.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const wordI = words.value[i];
+      const wordJ = words.value[j];
+      if (wordI && wordJ) {
+        words.value[i] = wordJ;
+        words.value[j] = wordI;
+      }
+    }
+  } catch (err) {
+    error.value = err instanceof Error ? err.message : 'Failed to load words'
+  } finally {
+    loading.value = false
+  }
+}
 
 async function checkAnswer() {
   if (!currentWord.value || !userInput.value.trim()) return
@@ -59,13 +80,35 @@ function handleKeydown(e: KeyboardEvent) {
     checkAnswer()
   }
 }
+
+onMounted(() => {
+  loadWords()
+})
 </script>
 
 <template>
   <div class="min-h-screen bg-white text-black flex flex-col items-center justify-center p-8 font-sans">
     <main class="w-full max-w-xl">
+      <!-- Loading state -->
+      <div v-if="loading" class="text-center">
+        <p class="text-lg">Indlæser ord...</p>
+      </div>
+
+      <!-- Error state -->
+      <div v-else-if="error" class="text-center">
+        <p class="text-lg mb-4">Fejl: {{ error }}</p>
+        <button @click="loadWords" class="border border-black px-4 py-2 hover:bg-black hover:text-white transition-colors">
+          Prøv igen
+        </button>
+      </div>
+
+      <!-- No words loaded -->
+      <div v-else-if="words.length === 0" class="text-center">
+        <p class="text-lg">Ingen ord fundet i words.json</p>
+      </div>
+
       <!-- Completed state -->
-      <div v-if="!currentWord" class="text-center">
+      <div v-else-if="!currentWord" class="text-center">
         <h1 class="text-2xl font-bold mb-4">Tillykke!</h1>
         <p>Du har lært alle ordene.</p>
         <p class="mt-2">{{ progress.learned }} / {{ progress.total }} ord lært</p>

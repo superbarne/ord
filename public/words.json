@@ -1,0 +1,2312 @@
+[
+  {
+    "word": "som",
+    "translationDE": "als",
+    "sentence": "Det er ham som vandt konkurrencen."
+  },
+  {
+    "word": "jeg",
+    "translationDE": "ich",
+    "sentence": "Jeg elsker at læse gode bøger."
+  },
+  {
+    "word": "hans",
+    "translationDE": "sein",
+    "sentence": "Hans elsker at læse bøger om historie."
+  },
+  {
+    "word": "at",
+    "translationDE": "zu",
+    "sentence": "Jeg er glad at se dig."
+  },
+  {
+    "word": "han",
+    "translationDE": "er",
+    "sentence": "Han er min bror."
+  },
+  {
+    "word": "var",
+    "translationDE": "war",
+    "sentence": "Der var mange mennesker til koncerten i går."
+  },
+  {
+    "word": "til",
+    "translationDE": "zu",
+    "sentence": "Jeg tager til Danmark i weekenden."
+  },
+  {
+    "word": "på",
+    "translationDE": "auf",
+    "sentence": "Bogen ligger på bordet."
+  },
+  {
+    "word": "er",
+    "translationDE": "ist",
+    "sentence": "Han er læge på hospitalet."
+  },
+  {
+    "word": "med",
+    "translationDE": "mit",
+    "sentence": "Jeg går med min ven i parken."
+  },
+  {
+    "word": "de",
+    "translationDE": "sie",
+    "sentence": "De sidder ved bordet og spiser deres mad."
+  },
+  {
+    "word": "være",
+    "translationDE": "sein",
+    "sentence": "Jeg vil være glad for at hjælpe dig."
+  },
+  {
+    "word": "en",
+    "translationDE": "ein",
+    "sentence": "Det er en smuk dag i dag."
+  },
+  {
+    "word": "har",
+    "translationDE": "haben",
+    "sentence": "Jeg har en bil."
+  },
+  {
+    "word": "dette",
+    "translationDE": "dies",
+    "sentence": "Dette er min nye bil."
+  },
+  {
+    "word": "fra",
+    "translationDE": "von",
+    "sentence": "Bogen er fra biblioteket."
+  },
+  {
+    "word": "ved",
+    "translationDE": "wissen",
+    "sentence": "Jeg ved ikke, hvad jeg skal gøre."
+  },
+  {
+    "word": "hot",
+    "translationDE": "heiß",
+    "sentence": "Det er en varm og hot sommerdag."
+  },
+  {
+    "word": "ord",
+    "translationDE": "Wort",
+    "sentence": "Det er et vigtigt ord i sproget."
+  },
+  {
+    "word": "men",
+    "translationDE": "aber",
+    "sentence": "Jeg vil gerne komme, men jeg har desværre ikke tid."
+  },
+  {
+    "word": "hvad",
+    "translationDE": "was",
+    "sentence": "Hvad laver du i dag?"
+  },
+  {
+    "word": "nogle",
+    "translationDE": "einige",
+    "sentence": "Nogle mennesker kan lide kaffe om morgenen."
+  },
+  {
+    "word": "det",
+    "translationDE": "das",
+    "sentence": "Det er et godt vejr i dag."
+  },
+  {
+    "word": "du",
+    "translationDE": "du",
+    "sentence": "Du er min bedste ven."
+  },
+  {
+    "word": "eller",
+    "translationDE": "oder",
+    "sentence": "Vil du have kaffe eller te?"
+  },
+  {
+    "word": "havde",
+    "translationDE": "hatte",
+    "sentence": "Jeg havde en god dag i går."
+  },
+  {
+    "word": "den",
+    "translationDE": "der/die/das",
+    "sentence": "Den røde bil holder foran huset."
+  },
+  {
+    "word": "af",
+    "translationDE": "von",
+    "sentence": "Bogen er skrevet af en berømt forfatter."
+  },
+  {
+    "word": "og",
+    "translationDE": "und",
+    "sentence": "Jeg kan lide kaffe og te."
+  },
+  {
+    "word": "i",
+    "translationDE": "ich",
+    "sentence": "Jeg er glad i min familie."
+  },
+  {
+    "word": "vi",
+    "translationDE": "wir",
+    "sentence": "Vi elsker at rejse rundt i verden."
+  },
+  {
+    "word": "kan",
+    "translationDE": "kann",
+    "sentence": "Jeg kan godt lide is om sommeren."
+  },
+  {
+    "word": "ud",
+    "translationDE": "heraus",
+    "sentence": "Kom ud af bilen nu!"
+  },
+  {
+    "word": "andre",
+    "translationDE": "andere",
+    "sentence": "De andre børn leger i haven."
+  },
+  {
+    "word": "gøre",
+    "translationDE": "machen",
+    "sentence": "Hvad kan jeg gøre for dig?"
+  },
+  {
+    "word": "deres",
+    "translationDE": "ihr",
+    "sentence": "Deres bil holder foran huset."
+  },
+  {
+    "word": "tid",
+    "translationDE": "Zeit",
+    "sentence": "Jeg har ikke tid til at vente i dag."
+  },
+  {
+    "word": "hvis",
+    "translationDE": "wenn",
+    "sentence": "Hvis du kommer tidligt, kan vi tale sammen."
+  },
+  {
+    "word": "vil",
+    "translationDE": "will",
+    "sentence": "Jeg vil gerne have en kop kaffe."
+  },
+  {
+    "word": "hvordan",
+    "translationDE": "wie",
+    "sentence": "Hvordan har du det i dag?"
+  },
+  {
+    "word": "sagde",
+    "translationDE": "sagte",
+    "sentence": "Han sagde, at han ville komme senere."
+  },
+  {
+    "word": "hver",
+    "translationDE": "jeder",
+    "sentence": "Hver dag læser jeg en bog."
+  },
+  {
+    "word": "fortælle",
+    "translationDE": "erzählen",
+    "sentence": "Jeg vil fortælle dig en historie om min familie."
+  },
+  {
+    "word": "gør",
+    "translationDE": "machen",
+    "sentence": "Hvad kan jeg gør for dig?"
+  },
+  {
+    "word": "sæt",
+    "translationDE": "Satz",
+    "sentence": "Det er et interessant sæt regler."
+  },
+  {
+    "word": "tre",
+    "translationDE": "drei",
+    "sentence": "Jeg har tre hunde."
+  },
+  {
+    "word": "ønsker",
+    "translationDE": "wünschen",
+    "sentence": "Jeg ønsker mig en ny cykel til min fødselsdag."
+  },
+  {
+    "word": "luft",
+    "translationDE": "Luft",
+    "sentence": "Der er frisk luft udenfor i dag."
+  },
+  {
+    "word": "godt",
+    "translationDE": "gut",
+    "sentence": "Det var godt, at du kom i tide."
+  },
+  {
+    "word": "også",
+    "translationDE": "auch",
+    "sentence": "Jeg kan også lide is om sommeren."
+  },
+  {
+    "word": "spille",
+    "translationDE": "spielen",
+    "sentence": "Børnene kan lide at spille fodbold om eftermiddagen."
+  },
+  {
+    "word": "lille",
+    "translationDE": "klein",
+    "sentence": "Det er en lille hund."
+  },
+  {
+    "word": "ende",
+    "translationDE": "Ende",
+    "sentence": "Vi er ved enden af vejen."
+  },
+  {
+    "word": "sætte",
+    "translationDE": "setzen",
+    "sentence": "Jeg vil sætte stolen ved bordet."
+  },
+  {
+    "word": "hjem",
+    "translationDE": "Heim",
+    "sentence": "Jeg er glad for at komme hjem efter en lang dag."
+  },
+  {
+    "word": "læse",
+    "translationDE": "lesen",
+    "sentence": "Jeg kan godt lide at læse bøger om aftenen."
+  },
+  {
+    "word": "hånd",
+    "translationDE": "Hand",
+    "sentence": "Jeg rækker hånden ud for at hilse."
+  },
+  {
+    "word": "havn",
+    "translationDE": "Hafen",
+    "sentence": "Skibet sejler ind i havnen ved solnedgang."
+  },
+  {
+    "word": "stor",
+    "translationDE": "groß",
+    "sentence": "Det er en stor hus ved havet."
+  },
+  {
+    "word": "stave",
+    "translationDE": "buchstabieren",
+    "sentence": "Kan du stave dit navn for mig?"
+  },
+  {
+    "word": "tilføje",
+    "translationDE": "hinzufügen",
+    "sentence": "Kan du tilføje lidt salt til suppen?"
+  },
+  {
+    "word": "selv",
+    "translationDE": "selbst",
+    "sentence": "Jeg kan selv klare det."
+  },
+  {
+    "word": "jord",
+    "translationDE": "Erde",
+    "sentence": "Landmanden pløjer jorden om foråret."
+  },
+  {
+    "word": "her",
+    "translationDE": "hier",
+    "sentence": "Kom her og hjælp mig."
+  },
+  {
+    "word": "skal",
+    "translationDE": "sollen",
+    "sentence": "Vi skal til Danmark i ferien."
+  },
+  {
+    "word": "høj",
+    "translationDE": "hoch",
+    "sentence": "Det er et høj bjerg i bjergkæden."
+  },
+  {
+    "word": "sådan",
+    "translationDE": "so, sådan",
+    "sentence": "Sådan gør man det, når man laver pandekager."
+  },
+  {
+    "word": "følg",
+    "translationDE": "folge",
+    "sentence": "Kan du følge med i historien?"
+  },
+  {
+    "word": "handling",
+    "translationDE": "Handlung",
+    "sentence": "Filmens handling var spændende og medrivende."
+  },
+  {
+    "word": "hvorfor",
+    "translationDE": "warum",
+    "sentence": "Hvorfor er du så glad i dag?"
+  },
+  {
+    "word": "spørge",
+    "translationDE": "fragen",
+    "sentence": "Jeg vil gerne spørge dig om noget vigtigt."
+  },
+  {
+    "word": "mænd",
+    "translationDE": "Männer",
+    "sentence": "Mange mænd arbejder som ingeniører."
+  },
+  {
+    "word": "ændring",
+    "translationDE": "Änderung",
+    "sentence": "Der er sket en vigtig ændring i lovgivningen."
+  },
+  {
+    "word": "gik",
+    "translationDE": "ging",
+    "sentence": "Han gik ned ad gaden i går aftes."
+  },
+  {
+    "word": "lys",
+    "translationDE": "Licht",
+    "sentence": "Det er et smukt lys i stuen."
+  },
+  {
+    "word": "slags",
+    "translationDE": "Art",
+    "sentence": "Det er en slags eksperiment, vi udfører."
+  },
+  {
+    "word": "off",
+    "translationDE": "aus",
+    "sentence": "Lyset er slukket, så computeren er off."
+  },
+  {
+    "word": "brug",
+    "translationDE": "Gebrauch",
+    "sentence": "Jeg tager brug af min computer hver dag."
+  },
+  {
+    "word": "hus",
+    "translationDE": "Haus",
+    "sentence": "Vi bor i et lille hus ved havet."
+  },
+  {
+    "word": "billede",
+    "translationDE": "Bild",
+    "sentence": "Det er et smukt billede af bjergene."
+  },
+  {
+    "word": "prøv",
+    "translationDE": "versuchen",
+    "sentence": "Prøv denne nye opskrift, den er virkelig lækker."
+  },
+  {
+    "word": "os",
+    "translationDE": "uns",
+    "sentence": "De kom til os i går aftes."
+  },
+  {
+    "word": "igen",
+    "translationDE": "wieder",
+    "sentence": "Jeg vil gerne se dig igen snart."
+  },
+  {
+    "word": "dyr",
+    "translationDE": "Tier",
+    "sentence": "Løven er et farligt dyr i safari."
+  },
+  {
+    "word": "punkt",
+    "translationDE": "Punkt",
+    "sentence": "Det vigtigste punkt på dagsordenen er budgettet."
+  },
+  {
+    "word": "mor",
+    "translationDE": "Mutter",
+    "sentence": "Min mor laver de bedste pandekager."
+  },
+  {
+    "word": "verden",
+    "translationDE": "Welt",
+    "sentence": "Hele verden er fuld af muligheder."
+  },
+  {
+    "word": "nær",
+    "translationDE": "nah",
+    "sentence": "Butikken er nær hjemmet."
+  },
+  {
+    "word": "bygge",
+    "translationDE": "bauen",
+    "sentence": "Vi skal bygge et nyt hus næste år."
+  },
+  {
+    "word": "far",
+    "translationDE": "Vater",
+    "sentence": "Min far er en meget kærlig mand."
+  },
+  {
+    "word": "enhver",
+    "translationDE": "jeder",
+    "sentence": "Enhver kan lære et nyt sprog, hvis han eller hun er motiveret."
+  },
+  {
+    "word": "ny",
+    "translationDE": "neu",
+    "sentence": "Det er en ny bil, som jeg netop har købt."
+  },
+  {
+    "word": "arbejde",
+    "translationDE": "arbeiten",
+    "sentence": "Jeg går på arbejde hver morgen klokken otte."
+  },
+  {
+    "word": "del",
+    "translationDE": "Teil",
+    "sentence": "Jeg vil gerne have en del af kagen."
+  },
+  {
+    "word": "tage",
+    "translationDE": "nehmen",
+    "sentence": "Jeg vil tage bussen til byen i morgen."
+  },
+  {
+    "word": "få",
+    "translationDE": "bekommen",
+    "sentence": "Jeg vil gerne få en kop kaffe."
+  },
+  {
+    "word": "sted",
+    "translationDE": "Ort",
+    "sentence": "Vi mødes på et hyggeligt sted i byen."
+  },
+  {
+    "word": "lavet",
+    "translationDE": "gemacht",
+    "sentence": "Maden er lavet af friske ingredienser."
+  },
+  {
+    "word": "leve",
+    "translationDE": "leben",
+    "sentence": "Jeg vil leve et sundt liv."
+  },
+  {
+    "word": "hvor",
+    "translationDE": "wo",
+    "sentence": "Hvor er du henne i dag?"
+  },
+  {
+    "word": "efter",
+    "translationDE": "nach",
+    "sentence": "Vi mødes efter middagen."
+  },
+  {
+    "word": "tilbage",
+    "translationDE": "zurück",
+    "sentence": "Jeg vil gerne have mine penge tilbage."
+  },
+  {
+    "word": "lidt",
+    "translationDE": "etwas",
+    "sentence": "Jeg vil gerne have lidt vand, tak."
+  },
+  {
+    "word": "kun",
+    "translationDE": "nur",
+    "sentence": "Jeg har kun fem minutter til at forberede mig."
+  },
+  {
+    "word": "runde",
+    "translationDE": "Runde",
+    "sentence": "Vi skal runde bordet og hilse på alle deltagerne."
+  },
+  {
+    "word": "mand",
+    "translationDE": "Mann",
+    "sentence": "Min far er en stærk mand."
+  },
+  {
+    "word": "år",
+    "translationDE": "Jahr",
+    "sentence": "I år har jeg rejst meget rundt i verden."
+  },
+  {
+    "word": "kom",
+    "translationDE": "komm",
+    "sentence": "Kom hurtigt ind i huset, det regner!"
+  },
+  {
+    "word": "vis",
+    "translationDE": "zeigen",
+    "sentence": "Kan du vise mig vejen til banken?"
+  },
+  {
+    "word": "god",
+    "translationDE": "gut",
+    "sentence": "Det er en god dag i dag."
+  },
+  {
+    "word": "mig",
+    "translationDE": "mir",
+    "sentence": "Kan du give mig en kop kaffe?"
+  },
+  {
+    "word": "vores",
+    "translationDE": "unser",
+    "sentence": "Vores bil er rød."
+  },
+  {
+    "word": "under",
+    "translationDE": "unter",
+    "sentence": "Bogen er under bordet."
+  },
+  {
+    "word": "navn",
+    "translationDE": "Name",
+    "sentence": "Mit navn er Hansen."
+  },
+  {
+    "word": "meget",
+    "translationDE": "sehr",
+    "sentence": "Det er meget vigtigt at lære nye sprog."
+  },
+  {
+    "word": "gennem",
+    "translationDE": "durch",
+    "sentence": "Jeg går gennem parken hver morgen."
+  },
+  {
+    "word": "bare",
+    "translationDE": "nur",
+    "sentence": "Det er bare en lille ting."
+  },
+  {
+    "word": "formular",
+    "translationDE": "Formular",
+    "sentence": "Jeg udfyldte formularen på hospitalet inden min undersøgelse."
+  },
+  {
+    "word": "sætning",
+    "translationDE": "Satz",
+    "sentence": "Dette er en vigtig sætning i teksten."
+  },
+  {
+    "word": "tænke",
+    "translationDE": "denken",
+    "sentence": "Jeg kan godt lide at tænke over livets store spørgsmål."
+  },
+  {
+    "word": "sige",
+    "translationDE": "sagen",
+    "sentence": "Kan du sige mig, hvor banken ligger?"
+  },
+  {
+    "word": "hjælpe",
+    "translationDE": "helfen",
+    "sentence": "Kan du hjælpe mig med at løfte denne kasse?"
+  },
+  {
+    "word": "lav",
+    "translationDE": "machen",
+    "sentence": "Kan du lave mad i aften?"
+  },
+  {
+    "word": "linje",
+    "translationDE": "Linie",
+    "sentence": "Jeg tegner en ret linje på papiret."
+  },
+  {
+    "word": "afvige",
+    "translationDE": "abweichen",
+    "sentence": "Resultatet afviger fra vores forventninger."
+  },
+  {
+    "word": "tur",
+    "translationDE": "Fahrt",
+    "sentence": "Vi tager en tur i bil i weekenden."
+  },
+  {
+    "word": "årsag",
+    "translationDE": "Ursache",
+    "sentence": "Hvad er årsagen til dette problem?"
+  },
+  {
+    "word": "betyde",
+    "translationDE": "bedeuten",
+    "sentence": "Hvad betyder dette ord på dansk?"
+  },
+  {
+    "word": "før",
+    "translationDE": "vor",
+    "sentence": "Jeg kom før ham til mødet."
+  },
+  {
+    "word": "træk",
+    "translationDE": "Zug",
+    "sentence": "Toget foretager et træk gennem landskabet."
+  },
+  {
+    "word": "højre",
+    "translationDE": "rechts",
+    "sentence": "Drej til højre ved næste vejkryds."
+  },
+  {
+    "word": "dreng",
+    "translationDE": "Junge",
+    "sentence": "Min dreng er ni år gammel."
+  },
+  {
+    "word": "gamle",
+    "translationDE": "alt",
+    "sentence": "Min gamle far bor stadig i vores familiegård."
+  },
+  {
+    "word": "samme",
+    "translationDE": "gleich",
+    "sentence": "Vi har samme mål i livet."
+  },
+  {
+    "word": "hun",
+    "translationDE": "sie",
+    "sentence": "Hun er en dygtig lærer."
+  },
+  {
+    "word": "alle",
+    "translationDE": "alle",
+    "sentence": "Alle børn kan lide is om sommeren."
+  },
+  {
+    "word": "der",
+    "translationDE": "der",
+    "sentence": "Der er mange mennesker i parken i dag."
+  },
+  {
+    "word": "når",
+    "translationDE": "wenn",
+    "sentence": "Når solen skinner, går jeg en tur i parken."
+  },
+  {
+    "word": "op",
+    "translationDE": "hinauf",
+    "sentence": "Løb op ad trappen."
+  },
+  {
+    "word": "måde",
+    "translationDE": "Art",
+    "sentence": "Det er en god måde at lære et sprog på."
+  },
+  {
+    "word": "om",
+    "translationDE": "um",
+    "sentence": "Vi snakker om vejret i dag."
+  },
+  {
+    "word": "mange",
+    "translationDE": "viele",
+    "sentence": "Der er mange mennesker i parken i dag."
+  },
+  {
+    "word": "derefter",
+    "translationDE": "danach",
+    "sentence": "Derefter spiste vi middag sammen."
+  },
+  {
+    "word": "dem",
+    "translationDE": "ihnen",
+    "sentence": "Jeg gav dem en gave i går."
+  },
+  {
+    "word": "skrive",
+    "translationDE": "schreiben",
+    "sentence": "Jeg kan godt lide at skrive breve til mine venner."
+  },
+  {
+    "word": "ville",
+    "translationDE": "wollen",
+    "sentence": "Jeg ville gerne rejse til Danmark i sommerferien."
+  },
+  {
+    "word": "ligesom",
+    "translationDE": "wie",
+    "sentence": "Han er ligesom sin far - stærk og modig."
+  },
+  {
+    "word": "så",
+    "translationDE": "so, dann",
+    "sentence": "Så kan vi begynde at forberede middagen."
+  },
+  {
+    "word": "disse",
+    "translationDE": "diese",
+    "sentence": "Disse bøger er meget interessante."
+  },
+  {
+    "word": "hende",
+    "translationDE": "sie",
+    "sentence": "Hende er min bedste veninde."
+  },
+  {
+    "word": "lang",
+    "translationDE": "Sprache",
+    "sentence": "Dansk er et smukt sprog."
+  },
+  {
+    "word": "ting",
+    "translationDE": "Ding",
+    "sentence": "Jeg har mange forskellige ting i min taske."
+  },
+  {
+    "word": "se",
+    "translationDE": "sehen",
+    "sentence": "Kan du se det lille hus på bakken?"
+  },
+  {
+    "word": "ham",
+    "translationDE": "er",
+    "sentence": "Ham kan jeg godt lide."
+  },
+  {
+    "word": "to",
+    "translationDE": "zu",
+    "sentence": "Jeg skal til Danmark i næste måned."
+  },
+  {
+    "word": "mere",
+    "translationDE": "mehr",
+    "sentence": "Jeg vil have mere mad."
+  },
+  {
+    "word": "dag",
+    "translationDE": "Tag",
+    "sentence": "God dag, hvordan har du det?"
+  },
+  {
+    "word": "kunne",
+    "translationDE": "können",
+    "sentence": "Jeg kunne godt lide at rejse rundt i verden."
+  },
+  {
+    "word": "gå",
+    "translationDE": "gehen",
+    "sentence": "Jeg vil gå en tur i parken i dag."
+  },
+  {
+    "word": "komme",
+    "translationDE": "kommen",
+    "sentence": "Jeg kommer hjem klokken seks i aften."
+  },
+  {
+    "word": "gjorde",
+    "translationDE": "machte",
+    "sentence": "Jeg gjorde mit bedste for at løse opgaven."
+  },
+  {
+    "word": "nummer",
+    "translationDE": "Nummer",
+    "sentence": "Hvad er dit telefonnummer?"
+  },
+  {
+    "word": "lyd",
+    "translationDE": "Ton",
+    "sentence": "Jeg kan høre en svag lyd fra køkkenet."
+  },
+  {
+    "word": "nej",
+    "translationDE": "nein",
+    "sentence": "Nej, jeg vil ikke spise grøntsager i aften."
+  },
+  {
+    "word": "mest",
+    "translationDE": "meistens",
+    "sentence": "Jeg spiser mest frugt om sommeren."
+  },
+  {
+    "word": "mennesker",
+    "translationDE": "Menschen",
+    "sentence": "Mange mennesker bor i København."
+  },
+  {
+    "word": "min",
+    "translationDE": "mein",
+    "sentence": "Min hund er meget glad."
+  },
+  {
+    "word": "løbet",
+    "translationDE": "gelaufen",
+    "sentence": "Jeg har løbet en lang tur i skoven i dag."
+  },
+  {
+    "word": "kende",
+    "translationDE": "kennen",
+    "sentence": "Jeg kender ham godt fra skolen."
+  },
+  {
+    "word": "vand",
+    "translationDE": "Wasser",
+    "sentence": "Jeg drikker et glas vand hver morgen."
+  },
+  {
+    "word": "end",
+    "translationDE": "Ende",
+    "sentence": "Dette er enden på historien."
+  },
+  {
+    "word": "opkald",
+    "translationDE": "Anruf",
+    "sentence": "Jeg modtog et opkald fra min mor i går."
+  },
+  {
+    "word": "første",
+    "translationDE": "erste",
+    "sentence": "Det er den første dag i skolen."
+  },
+  {
+    "word": "ned",
+    "translationDE": "hinunter",
+    "sentence": "Løb ned ad trappen."
+  },
+  {
+    "word": "side",
+    "translationDE": "Seite",
+    "sentence": "Jeg bladede om til næste side i bogen."
+  },
+  {
+    "word": "været",
+    "translationDE": "gewesen",
+    "sentence": "Jeg har været i Danmark mange gange."
+  },
+  {
+    "word": "nu",
+    "translationDE": "jetzt",
+    "sentence": "Nu er det tid til at spise middag."
+  },
+  {
+    "word": "finde",
+    "translationDE": "finden",
+    "sentence": "Jeg kan ikke finde min nøgle."
+  },
+  {
+    "word": "hoved",
+    "translationDE": "Kopf",
+    "sentence": "Mit hoved gør ondt i dag."
+  },
+  {
+    "word": "stå",
+    "translationDE": "stehen",
+    "sentence": "Jeg kan stå hele dagen uden at blive træt."
+  },
+  {
+    "word": "egen",
+    "translationDE": "eigen",
+    "sentence": "Det er min egen bil."
+  },
+  {
+    "word": "bør",
+    "translationDE": "sollte",
+    "sentence": "Man bør altid være ærlig over for hinanden."
+  },
+  {
+    "word": "land",
+    "translationDE": "Land",
+    "sentence": "Danmark er et smukt land med mange grønne marker."
+  },
+  {
+    "word": "fundet",
+    "translationDE": "gefunden",
+    "sentence": "Jeg har fundet min tabte nøgle."
+  },
+  {
+    "word": "svar",
+    "translationDE": "Antwort",
+    "sentence": "Hvad er dit svar på dette spørgsmål?"
+  },
+  {
+    "word": "giver",
+    "translationDE": "geben",
+    "sentence": "Kan du giver mig en kop kaffe?"
+  },
+  {
+    "word": "skole",
+    "translationDE": "Schule",
+    "sentence": "Jeg går i skole hver dag."
+  },
+  {
+    "word": "vokse",
+    "translationDE": "wachsen",
+    "sentence": "Børn vokser hurtigt i deres første leveår."
+  },
+  {
+    "word": "undersøgelse",
+    "translationDE": "Untersuchung",
+    "sentence": "Lægen foretog en grundig undersøgelse af patientens symptomer."
+  },
+  {
+    "word": "stadig",
+    "translationDE": "immer noch",
+    "sentence": "Jeg er stadig sulten efter middagen."
+  },
+  {
+    "word": "lære",
+    "translationDE": "lernen",
+    "sentence": "Jeg vil gerne lære dansk."
+  },
+  {
+    "word": "plante",
+    "translationDE": "Pflanze",
+    "sentence": "Jeg har mange planter i min stue."
+  },
+  {
+    "word": "dæksel",
+    "translationDE": "Deckel",
+    "sentence": "Sæt dækslet på gryden, så maden ikke koger over."
+  },
+  {
+    "word": "mad",
+    "translationDE": "Essen",
+    "sentence": "Jeg kan lide dansk mad."
+  },
+  {
+    "word": "sol",
+    "translationDE": "Sonne",
+    "sentence": "Solen skinner på himlen i dag."
+  },
+  {
+    "word": "fire",
+    "translationDE": "Feuer",
+    "sentence": "Der er et stort bål med ild i haven."
+  },
+  {
+    "word": "mellem",
+    "translationDE": "zwischen",
+    "sentence": "Bogen ligger mellem bordene."
+  },
+  {
+    "word": "stat",
+    "translationDE": "Staat",
+    "sentence": "Danmark er en stat i Nordeuropa."
+  },
+  {
+    "word": "holde",
+    "translationDE": "halten",
+    "sentence": "Jeg holder meget af min familie."
+  },
+  {
+    "word": "øje",
+    "translationDE": "Auge",
+    "sentence": "Mit venstre øje er blåt."
+  },
+  {
+    "word": "aldrig",
+    "translationDE": "nie",
+    "sentence": "Jeg har aldrig besøgt Paris."
+  },
+  {
+    "word": "sidste",
+    "translationDE": "letzte",
+    "sentence": "Dette er den sidste side i bogen."
+  },
+  {
+    "word": "lad",
+    "translationDE": "lass",
+    "sentence": "Lad os gå en tur i parken."
+  },
+  {
+    "word": "tænkte",
+    "translationDE": "dachte",
+    "sentence": "Jeg tænkte på dig hele dagen i går."
+  },
+  {
+    "word": "by",
+    "translationDE": "vorbei",
+    "sentence": "Bilen kørte hurtigt forbi huset."
+  },
+  {
+    "word": "træ",
+    "translationDE": "Baum",
+    "sentence": "Jeg kan lide at sidde under et stort træ om sommeren."
+  },
+  {
+    "word": "krydse",
+    "translationDE": "kreuzen",
+    "sentence": "Vi vil krydse grænsen til Tyskland i morgen."
+  },
+  {
+    "word": "gård",
+    "translationDE": "Hof",
+    "sentence": "Børnene leger på gården ved farmors hus."
+  },
+  {
+    "word": "hårdt",
+    "translationDE": "hart",
+    "sentence": "Det var et hårdt slag for holdet at tabe kampen."
+  },
+  {
+    "word": "begyndelse",
+    "translationDE": "Anfang",
+    "sentence": "I begyndelsen var der kun mørke."
+  },
+  {
+    "word": "måske",
+    "translationDE": "vielleicht",
+    "sentence": "Måske kommer jeg til festen i aften."
+  },
+  {
+    "word": "historie",
+    "translationDE": "Geschichte",
+    "sentence": "Jeg elsker at læse historiske bøger om verdenskrigen."
+  },
+  {
+    "word": "sav",
+    "translationDE": "Säge",
+    "sentence": "Jeg bruger en sav til at skære træet op."
+  },
+  {
+    "word": "langt",
+    "translationDE": "weit",
+    "sentence": "Det er langt til stranden herfra."
+  },
+  {
+    "word": "hav",
+    "translationDE": "Meer",
+    "sentence": "Vi sejler ud på havet om sommeren."
+  },
+  {
+    "word": "tegne",
+    "translationDE": "zeichnen",
+    "sentence": "Jeg kan godt lide at tegne billeder med farveblyanter."
+  },
+  {
+    "word": "venstre",
+    "translationDE": "links",
+    "sentence": "Drej venstre ved næste vejkryds."
+  },
+  {
+    "word": "sent",
+    "translationDE": "Satz",
+    "sentence": "Jeg har skrevet en interessant sætning."
+  },
+  {
+    "word": "køre",
+    "translationDE": "fahren",
+    "sentence": "Jeg kan køre bil til København."
+  },
+  {
+    "word": "ikke",
+    "translationDE": "nicht",
+    "sentence": "Jeg kan ikke lide kaffe."
+  },
+  {
+    "word": "mens",
+    "translationDE": "während",
+    "sentence": "Mens jeg læser en bog, drikker jeg te."
+  },
+  {
+    "word": "presse",
+    "translationDE": "Presse",
+    "sentence": "Journalister fra forskellige medier var til stede ved pressemødet."
+  },
+  {
+    "word": "tæt",
+    "translationDE": "dicht",
+    "sentence": "Huset ligger tæt på stranden."
+  },
+  {
+    "word": "nat",
+    "translationDE": "Nacht",
+    "sentence": "I nat sov jeg tidligt."
+  },
+  {
+    "word": "real",
+    "translationDE": "wirklich",
+    "sentence": "Det er en rigtig god ide at lære et nyt sprog."
+  },
+  {
+    "word": "liv",
+    "translationDE": "Leben",
+    "sentence": "Mit liv er fuld af spændende oplevelser."
+  },
+  {
+    "word": "nord",
+    "translationDE": "Norden",
+    "sentence": "Danmark ligger i den nordlige del af Europa."
+  },
+  {
+    "word": "bog",
+    "translationDE": "Buch",
+    "sentence": "Jeg læser en god bog i aften."
+  },
+  {
+    "word": "bære",
+    "translationDE": "tragen",
+    "sentence": "Kan du bære denne tunge taske?"
+  },
+  {
+    "word": "tog",
+    "translationDE": "Zug",
+    "sentence": "Jeg tager toget til København i morgen."
+  },
+  {
+    "word": "videnskab",
+    "translationDE": "Wissenschaft",
+    "sentence": "Videnskab er vigtig for vores forståelse af verden."
+  },
+  {
+    "word": "spise",
+    "translationDE": "essen",
+    "sentence": "Jeg kan lide at spise pizza om aftenen."
+  },
+  {
+    "word": "værelse",
+    "translationDE": "Zimmer",
+    "sentence": "Mit værelse er hyggeligt og lyst."
+  },
+  {
+    "word": "ven",
+    "translationDE": "Freund",
+    "sentence": "Han er min bedste ven."
+  },
+  {
+    "word": "begyndte",
+    "translationDE": "begann",
+    "sentence": "Han begyndte at læse en ny bog i går."
+  },
+  {
+    "word": "idé",
+    "translationDE": "Idee",
+    "sentence": "Han har fået en fantastisk idé til en ny opfindelse."
+  },
+  {
+    "word": "fisk",
+    "translationDE": "Fisch",
+    "sentence": "Jeg kan lide at spise grillet fisk om sommeren."
+  },
+  {
+    "word": "bjerg",
+    "translationDE": "Berg",
+    "sentence": "Det høje bjerg var dækket af sne."
+  },
+  {
+    "word": "stoppe",
+    "translationDE": "anhalten",
+    "sentence": "Kan du stoppe bilen ved fodgængerfeltet?"
+  },
+  {
+    "word": "en gang",
+    "translationDE": "einmal",
+    "sentence": "Jeg vil gerne prøve det en gang til."
+  },
+  {
+    "word": "basen",
+    "translationDE": "Basis",
+    "sentence": "Virksomheden har sin base i København."
+  },
+  {
+    "word": "høre",
+    "translationDE": "hören",
+    "sentence": "Jeg kan godt høre musikken udefra."
+  },
+  {
+    "word": "hest",
+    "translationDE": "Pferd",
+    "sentence": "Min far har en smuk brun hest på landet."
+  },
+  {
+    "word": "cut",
+    "translationDE": "schneiden",
+    "sentence": "Kan du skære kødet i mindre stykker?"
+  },
+  {
+    "word": "sikker",
+    "translationDE": "sicher",
+    "sentence": "Jeg er sikker på, at jeg har låst døren."
+  },
+  {
+    "word": "ser",
+    "translationDE": "sieht",
+    "sentence": "Han ser glad ud i dag."
+  },
+  {
+    "word": "farve",
+    "translationDE": "Farbe",
+    "sentence": "Jeg kan lide den blå farve på væggen."
+  },
+  {
+    "word": "ansigt",
+    "translationDE": "Gesicht",
+    "sentence": "Hun har et smukt ansigt."
+  },
+  {
+    "word": "main",
+    "translationDE": "Hauptsache",
+    "sentence": "Det vigtigste er, at vi har det godt sammen."
+  },
+  {
+    "word": "åben",
+    "translationDE": "offen",
+    "sentence": "Vinduet er åben om sommeren."
+  },
+  {
+    "word": "synes",
+    "translationDE": "finden",
+    "sentence": "Jeg synes, at det er en god idé."
+  },
+  {
+    "word": "sammen",
+    "translationDE": "zusammen",
+    "sentence": "Vi er sammen i dag."
+  },
+  {
+    "word": "næste",
+    "translationDE": "nächste",
+    "sentence": "Næste station er København H."
+  },
+  {
+    "word": "hvid",
+    "translationDE": "weiß",
+    "sentence": "Sneen er hvid om vinteren."
+  },
+  {
+    "word": "børn",
+    "translationDE": "Kinder",
+    "sentence": "Mine børn elsker at lege i haven."
+  },
+  {
+    "word": "begynde",
+    "translationDE": "beginnen",
+    "sentence": "Jeg vil begynde at lære tysk i morgen."
+  },
+  {
+    "word": "fik",
+    "translationDE": "bekam",
+    "sentence": "Jeg fik en gave til min fødselsdag."
+  },
+  {
+    "word": "gang",
+    "translationDE": "Gang",
+    "sentence": "Vi gik en tur i den mørke gang."
+  },
+  {
+    "word": "eksempel",
+    "translationDE": "Beispiel",
+    "sentence": "Dette er et godt eksempel på kreativitet."
+  },
+  {
+    "word": "lethed",
+    "translationDE": "Leichtigkeit",
+    "sentence": "Hans nyder lethed ved at løse matematiske problemer."
+  },
+  {
+    "word": "papir",
+    "translationDE": "Papier",
+    "sentence": "Jeg har brug for et stykke papir til at skrive en note."
+  },
+  {
+    "word": "gruppe",
+    "translationDE": "Gruppe",
+    "sentence": "Vi danner en gruppe for at løse problemet sammen."
+  },
+  {
+    "word": "altid",
+    "translationDE": "immer",
+    "sentence": "Jeg elsker altid at spise is om sommeren."
+  },
+  {
+    "word": "musik",
+    "translationDE": "Musik",
+    "sentence": "Jeg elsker at lytte til klassisk musik om aftenen."
+  },
+  {
+    "word": "både",
+    "translationDE": "sowohl",
+    "sentence": "Både børn og voksne kan lide is om sommeren."
+  },
+  {
+    "word": "mark",
+    "translationDE": "Mal",
+    "sentence": "Jeg vil gerne markere denne vigtige dato i min kalender."
+  },
+  {
+    "word": "ofte",
+    "translationDE": "oft",
+    "sentence": "Jeg ser ofte film om aftenen."
+  },
+  {
+    "word": "brev",
+    "translationDE": "Brief",
+    "sentence": "Jeg modtog et brev fra min bedste ven i går."
+  },
+  {
+    "word": "indtil",
+    "translationDE": "bis",
+    "sentence": "Jeg venter indtil kl. 18:00 med at gå hjem."
+  },
+  {
+    "word": "mile",
+    "translationDE": "Meile",
+    "sentence": "Vi kørte mange mile gennem landet på vores roadtrip."
+  },
+  {
+    "word": "flod",
+    "translationDE": "Fluss",
+    "sentence": "Den store flod løber gennem landet."
+  },
+  {
+    "word": "fødder",
+    "translationDE": "Füße",
+    "sentence": "Mine fødder er trætte efter en lang vandretur."
+  },
+  {
+    "word": "pleje",
+    "translationDE": "pflegen",
+    "sentence": "Jeg plejer at drikke kaffe om morgenen."
+  },
+  {
+    "word": "sekund",
+    "translationDE": "Sekunde",
+    "sentence": "Vent et sekund, jeg kommer straks."
+  },
+  {
+    "word": "nok",
+    "translationDE": "genug",
+    "sentence": "Jeg har nok mad til middagen."
+  },
+  {
+    "word": "plain",
+    "translationDE": "einfach",
+    "sentence": "Det er en plain sandhed, at alle mennesker har brug for kærlighed."
+  },
+  {
+    "word": "pige",
+    "translationDE": "Mädchen",
+    "sentence": "Min lille pige er meget sød."
+  },
+  {
+    "word": "sædvanlig",
+    "translationDE": "gewöhnlich",
+    "sentence": "Det er sædvanlig procedure at tjekke billetter inden ombordstigning."
+  },
+  {
+    "word": "unge",
+    "translationDE": "Jugendliche",
+    "sentence": "De unge elsker at høre musik."
+  },
+  {
+    "word": "klar",
+    "translationDE": "bereit",
+    "sentence": "Jeg er klar til at begynde projektet nu."
+  },
+  {
+    "word": "ovenfor",
+    "translationDE": "oben",
+    "sentence": "Bogen ligger ovenfor computeren på reolen."
+  },
+  {
+    "word": "nogensinde",
+    "translationDE": "jemals",
+    "sentence": "Har du nogensinde været i Danmark?"
+  },
+  {
+    "word": "rød",
+    "translationDE": "rot",
+    "sentence": "Æblet er rød og lækkert."
+  },
+  {
+    "word": "liste",
+    "translationDE": "Liste",
+    "sentence": "Jeg har lavet en indkøbsliste over de ting, jeg skal bruge i supermarkedet."
+  },
+  {
+    "word": "føler",
+    "translationDE": "fühlen",
+    "sentence": "Jeg føler mig glad i dag."
+  },
+  {
+    "word": "snak",
+    "translationDE": "Gespräch",
+    "sentence": "Vi havde en hyggelig snak over en kop kaffe."
+  },
+  {
+    "word": "fugl",
+    "translationDE": "Vogel",
+    "sentence": "En fugl flyver højt på himlen."
+  },
+  {
+    "word": "snart",
+    "translationDE": "bald",
+    "sentence": "Jeg ser snart frem til ferien."
+  },
+  {
+    "word": "krop",
+    "translationDE": "Körper",
+    "sentence": "Min krop er stærk efter mange timers træning."
+  },
+  {
+    "word": "hund",
+    "translationDE": "Hund",
+    "sentence": "Min hund elsker at løbe i parken."
+  },
+  {
+    "word": "familie",
+    "translationDE": "Familie",
+    "sentence": "Min familie bor i København."
+  },
+  {
+    "word": "direkte",
+    "translationDE": "direkt",
+    "sentence": "Vi sender direkte fra koncerten i aften."
+  },
+  {
+    "word": "udgøre",
+    "translationDE": "ausmachen",
+    "sentence": "Kvinder udgør halvdelen af befolkningen."
+  },
+  {
+    "word": "forlade",
+    "translationDE": "verlassen",
+    "sentence": "Jeg vil forlade kontoret klokken fem."
+  },
+  {
+    "word": "sang",
+    "translationDE": "Gesang",
+    "sentence": "Hans smukke sang rørte hele publikum."
+  },
+  {
+    "word": "måle",
+    "translationDE": "messen",
+    "sentence": "Jeg vil måle temperaturen i rummet."
+  },
+  {
+    "word": "dør",
+    "translationDE": "Tür",
+    "sentence": "Kan du lukke døren, tak?"
+  },
+  {
+    "word": "produkt",
+    "translationDE": "Produkt",
+    "sentence": "Dette nye produkt er meget populært på markedet."
+  },
+  {
+    "word": "sort",
+    "translationDE": "sortieren",
+    "sentence": "Kan du hjælpe mig med at sort disse papirer?"
+  },
+  {
+    "word": "kort",
+    "translationDE": "Karte",
+    "sentence": "Jeg har et kort over Danmark."
+  },
+  {
+    "word": "talord",
+    "translationDE": "Zahlwort",
+    "sentence": "I dansk grammatik er et talord et ord, der bruges til at angive et nøjagtigt antal."
+  },
+  {
+    "word": "klasse",
+    "translationDE": "Klasse",
+    "sentence": "Det var en rigtig god klasse i år."
+  },
+  {
+    "word": "vind",
+    "translationDE": "Wind",
+    "sentence": "Der er kraftig vind i dag."
+  },
+  {
+    "word": "spørgsmål",
+    "translationDE": "Frage",
+    "sentence": "Jeg har et vigtigt spørgsmål til dig."
+  },
+  {
+    "word": "ske",
+    "translationDE": "geschehen",
+    "sentence": "Det kan ske hvad som helst."
+  },
+  {
+    "word": "komplet",
+    "translationDE": "vollständig",
+    "sentence": "Rapporten er komplet og indeholder alle de nødvendige oplysninger."
+  },
+  {
+    "word": "skib",
+    "translationDE": "Schiff",
+    "sentence": "Mit skib sejlede gennem Nordsøen."
+  },
+  {
+    "word": "område",
+    "translationDE": "Gebiet",
+    "sentence": "Dette er et vigtigt industriområde i Danmark."
+  },
+  {
+    "word": "halvdelen",
+    "translationDE": "Hälfte",
+    "sentence": "Halvdelen af befolkningen bor i hovedstaden."
+  },
+  {
+    "word": "sten",
+    "translationDE": "Stein",
+    "sentence": "Der ligger en stor sten ved floden."
+  },
+  {
+    "word": "ordre",
+    "translationDE": "Befehl",
+    "sentence": "Chefen gav ordre til at afslutte projektet."
+  },
+  {
+    "word": "brand",
+    "translationDE": "Marke",
+    "sentence": "Jeg køber altid denne brand af kaffe."
+  },
+  {
+    "word": "syd",
+    "translationDE": "Süden",
+    "sentence": "Vejret er varmere i syd end i nord."
+  },
+  {
+    "word": "problem",
+    "translationDE": "Problem",
+    "sentence": "Vi har et problem, som vi bliver nødt til at løse."
+  },
+  {
+    "word": "stykke",
+    "translationDE": "Stück",
+    "sentence": "Jeg vil have et stykke kage, tak."
+  },
+  {
+    "word": "fortalt",
+    "translationDE": "erzählt",
+    "sentence": "Han har fortalt mig hele historien."
+  },
+  {
+    "word": "vidste",
+    "translationDE": "wusste",
+    "sentence": "Jeg vidste ikke, at du ville komme i dag."
+  },
+  {
+    "word": "pass",
+    "translationDE": "Pass",
+    "sentence": "Jeg har brug for at vise min pas ved grænsekontrollen."
+  },
+  {
+    "word": "siden",
+    "translationDE": "seit",
+    "sentence": "Jeg har ikke set ham siden i går."
+  },
+  {
+    "word": "top",
+    "translationDE": "Spitze",
+    "sentence": "Han er toppen af sin klasse i matematik."
+  },
+  {
+    "word": "hele",
+    "translationDE": "ganz",
+    "sentence": "Hele familien var samlet til middag."
+  },
+  {
+    "word": "konge",
+    "translationDE": "König",
+    "sentence": "Hans far var en respekteret konge i Danmark."
+  },
+  {
+    "word": "gade",
+    "translationDE": "Straße",
+    "sentence": "Jeg bor ved en rolig gade i centrum af byen."
+  },
+  {
+    "word": "tommer",
+    "translationDE": "Zoll",
+    "sentence": "Hvor mange tommer er dette bord langt?"
+  },
+  {
+    "word": "formere",
+    "translationDE": "vermehren",
+    "sentence": "Bakterier kan formere sig hurtigt under de rette betingelser."
+  },
+  {
+    "word": "intet",
+    "translationDE": "nichts",
+    "sentence": "Der er intet mad i køleskabet."
+  },
+  {
+    "word": "kursus",
+    "translationDE": "Kurs",
+    "sentence": "Jeg deltager i et kursus i dansk sprog."
+  },
+  {
+    "word": "ophold",
+    "translationDE": "Aufenthalt",
+    "sentence": "Mit ophold i Danmark var meget behageligt."
+  },
+  {
+    "word": "hjul",
+    "translationDE": "Rad",
+    "sentence": "Bilen har fire hjul."
+  },
+  {
+    "word": "fuld",
+    "translationDE": "voll",
+    "sentence": "Han er fuld efter at have drukket for mange øl."
+  },
+  {
+    "word": "kraft",
+    "translationDE": "Kraft",
+    "sentence": "Han har stor kraft i sine arme."
+  },
+  {
+    "word": "blå",
+    "translationDE": "blau",
+    "sentence": "Havet er blåt om sommeren."
+  },
+  {
+    "word": "objekt",
+    "translationDE": "Objekt",
+    "sentence": "Kunstneren malede et abstrakt objekt på lærredet."
+  },
+  {
+    "word": "beslutte",
+    "translationDE": "beschließen",
+    "sentence": "Vi skal beslutte, hvad vi vil lave i weekenden."
+  },
+  {
+    "word": "overflade",
+    "translationDE": "Oberfläche",
+    "sentence": "Havets overflade var rolig og spejlblank."
+  },
+  {
+    "word": "dyb",
+    "translationDE": "tief",
+    "sentence": "Havet er dybt ved kysten."
+  },
+  {
+    "word": "månen",
+    "translationDE": "Mond",
+    "sentence": "Månen lyser smukt på nattehimlen."
+  },
+  {
+    "word": "ø",
+    "translationDE": "Insel",
+    "sentence": "Vi sejlede til en smuk ø i Middelhavet."
+  },
+  {
+    "word": "fod",
+    "translationDE": "Fuß",
+    "sentence": "Jeg har ondt i min venstre fod."
+  },
+  {
+    "word": "systemet",
+    "translationDE": "System",
+    "sentence": "Vores nye computersystem fungerer rigtig godt."
+  },
+  {
+    "word": "travlt",
+    "translationDE": "beschäftigt",
+    "sentence": "Jeg har travlt i dag med mange opgaver på kontoret."
+  },
+  {
+    "word": "test",
+    "translationDE": "Test",
+    "sentence": "Vi skal lave en test i morgen."
+  },
+  {
+    "word": "rekord",
+    "translationDE": "Rekord",
+    "sentence": "Han slog verdensrekorden i løb."
+  },
+  {
+    "word": "båd",
+    "translationDE": "Boot",
+    "sentence": "Vi sejler i en lille båd på søen."
+  },
+  {
+    "word": "fælles",
+    "translationDE": "gemeinsam",
+    "sentence": "Vi har et fælles projekt på arbejdspladsen."
+  },
+  {
+    "word": "guld",
+    "translationDE": "Gold",
+    "sentence": "Han bar en smuk guldkæde om halsen."
+  },
+  {
+    "word": "mulig",
+    "translationDE": "möglich",
+    "sentence": "Det er mulig at lære et nyt sprog på et år."
+  },
+  {
+    "word": "planet",
+    "translationDE": "Planet",
+    "sentence": "Jorden er en planet i solsystemet."
+  },
+  {
+    "word": "stedet",
+    "translationDE": "Stelle",
+    "sentence": "Vi mødes på stedet klokken fem."
+  },
+  {
+    "word": "tør",
+    "translationDE": "trocken",
+    "sentence": "Det er tørt vejr i dag."
+  },
+  {
+    "word": "spekulerer",
+    "translationDE": "spekulieren",
+    "sentence": "Han spekulerer meget over fremtiden."
+  },
+  {
+    "word": "grine",
+    "translationDE": "lachen",
+    "sentence": "Børnene begyndte at grine, da de så klovnen."
+  },
+  {
+    "word": "tusinde",
+    "translationDE": "tausend",
+    "sentence": "Jeg har tusinde ideer til, hvad vi kan lave i dag."
+  },
+  {
+    "word": "løb",
+    "translationDE": "Lauf",
+    "sentence": "Jeg løb hurtigt gennem parken i morges."
+  },
+  {
+    "word": "tjek",
+    "translationDE": "Kontrolle",
+    "sentence": "Kan du tjekke min telefon for beskeder?"
+  },
+  {
+    "word": "spil",
+    "translationDE": "Spiel",
+    "sentence": "Vi spillede et sjovt brætspil i aften."
+  },
+  {
+    "word": "form",
+    "translationDE": "Form",
+    "sentence": "Denne kontrakt skal udfyldes i den korrekte form."
+  },
+  {
+    "word": "sidestille",
+    "translationDE": "gleichstellen",
+    "sentence": "Virksomheden ønsker at sidestille alle medarbejdere uanset køn eller baggrund."
+  },
+  {
+    "word": "varmt",
+    "translationDE": "warm",
+    "sentence": "Det er varmt i dag, så jeg tager en let trøje på."
+  },
+  {
+    "word": "miss",
+    "translationDE": "vermissen",
+    "sentence": "Jeg kommer til at savne dig meget, når jeg rejser væk."
+  },
+  {
+    "word": "bragt",
+    "translationDE": "gebracht",
+    "sentence": "Avisen er bragt til alle husstande i området."
+  },
+  {
+    "word": "varme",
+    "translationDE": "Wärme",
+    "sentence": "Solen sender behagelig varme ned over stranden."
+  },
+  {
+    "word": "sne",
+    "translationDE": "Schnee",
+    "sentence": "Det sner, og der ligger et tykt lag sne på jorden."
+  },
+  {
+    "word": "dæk",
+    "translationDE": "Reifen",
+    "sentence": "Jeg skal skifte dæk på min bil i morgen."
+  },
+  {
+    "word": "bringe",
+    "translationDE": "bringen",
+    "sentence": "Kan du bringe mig en kop kaffe?"
+  },
+  {
+    "word": "ja",
+    "translationDE": "ja",
+    "sentence": "Ja, det er rigtigt."
+  },
+  {
+    "word": "fjernt",
+    "translationDE": "fern",
+    "sentence": "Bjergene virkede fjernt i det fjerne landskab."
+  },
+  {
+    "word": "fylde",
+    "translationDE": "füllen",
+    "sentence": "Kan du fylde vandet i glasset?"
+  },
+  {
+    "word": "øst",
+    "translationDE": "Osten",
+    "sentence": "Solen stiger op i øst om morgenen."
+  },
+  {
+    "word": "maling",
+    "translationDE": "Farbe",
+    "sentence": "Jeg har købt ny maling til stuen."
+  },
+  {
+    "word": "sprog",
+    "translationDE": "Sprache",
+    "sentence": "Dansk er et interessant sprog."
+  },
+  {
+    "word": "blandt",
+    "translationDE": "unter",
+    "sentence": "Børnene leger blandt træerne i haven."
+  },
+  {
+    "word": "enhed",
+    "translationDE": "Einheit",
+    "sentence": "Denne enhed koster 50 kroner."
+  },
+  {
+    "word": "magt",
+    "translationDE": "Macht",
+    "sentence": "Politikerne kæmper om magten i parlamentet."
+  },
+  {
+    "word": "bøde",
+    "translationDE": "Geldstrafe",
+    "sentence": "Han modtog en bøde for at køre for stærkt."
+  },
+  {
+    "word": "flyve",
+    "translationDE": "fliegen",
+    "sentence": "Fuglene flyver højt på himlen."
+  },
+  {
+    "word": "falde",
+    "translationDE": "fallen",
+    "sentence": "Bladene falder ned fra træet om efteråret."
+  },
+  {
+    "word": "føre",
+    "translationDE": "führen",
+    "sentence": "Han vil føre virksomheden videre efter sin far."
+  },
+  {
+    "word": "råb",
+    "translationDE": "Schrei",
+    "sentence": "Han udsendte et højt råb, da han så ulykken."
+  },
+  {
+    "word": "mørk",
+    "translationDE": "dunkel",
+    "sentence": "Det er mørkt udenfor om natten."
+  },
+  {
+    "word": "maskine",
+    "translationDE": "Maschine",
+    "sentence": "Denne maskine kan producere hundrede dele i timen."
+  },
+  {
+    "word": "notat",
+    "translationDE": "Notiz",
+    "sentence": "Jeg tog et vigtigt notat under mødet."
+  },
+  {
+    "word": "vente",
+    "translationDE": "warten",
+    "sentence": "Jeg venter på bussen ved stoppestedet."
+  },
+  {
+    "word": "plan",
+    "translationDE": "Plan",
+    "sentence": "Vi har en god plan for weekenden."
+  },
+  {
+    "word": "figur",
+    "translationDE": "Figur",
+    "sentence": "Han er en interessant figur i byens historie."
+  },
+  {
+    "word": "stjerne",
+    "translationDE": "Stern",
+    "sentence": "Den klare stjerne lyste på nattehimlen."
+  },
+  {
+    "word": "kasse",
+    "translationDE": "Kasten",
+    "sentence": "Jeg satte kassen på bordet."
+  },
+  {
+    "word": "navneord",
+    "translationDE": "Substantiv",
+    "sentence": "Et navneord er et ord, der betegner en person, ting eller et begreb."
+  },
+  {
+    "word": "felt",
+    "translationDE": "Feld",
+    "sentence": "Han løb gennem det grønne felt."
+  },
+  {
+    "word": "hvile",
+    "translationDE": "ruhen",
+    "sentence": "Jeg vil hvile mig efter en lang dag på arbejdet."
+  },
+  {
+    "word": "korrekt",
+    "translationDE": "korrekt",
+    "sentence": "Det er korrekt, at Danmark ligger i Nordeuropa."
+  },
+  {
+    "word": "stand",
+    "translationDE": "stehen",
+    "sentence": "Jeg kan godt lide at stå og kigge ud over havet."
+  },
+  {
+    "word": "pund",
+    "translationDE": "Pfund",
+    "sentence": "Jeg købte et pund æbler på markedet."
+  },
+  {
+    "word": "gjort",
+    "translationDE": "getan",
+    "sentence": "Jeg har gjort mit bedste for at løse problemet."
+  },
+  {
+    "word": "skønhed",
+    "translationDE": "Schönheit",
+    "sentence": "Hendes indre skønhed lyser igennem."
+  },
+  {
+    "word": "køretur",
+    "translationDE": "Fahrt",
+    "sentence": "Vi tog en dejlig køretur langs kysten i weekenden."
+  },
+  {
+    "word": "stod",
+    "translationDE": "stand",
+    "sentence": "Han stod ved vinduet og kiggede ud."
+  },
+  {
+    "word": "indeholder",
+    "translationDE": "enthält",
+    "sentence": "Maden indeholder mange proteiner."
+  },
+  {
+    "word": "forside",
+    "translationDE": "Titelseite",
+    "sentence": "Bogen har en smuk forside med et farverigt billede."
+  },
+  {
+    "word": "undervise",
+    "translationDE": "unterrichten",
+    "sentence": "Læreren underviser eleverne i dansk grammatik."
+  },
+  {
+    "word": "uge",
+    "translationDE": "Woche",
+    "sentence": "Jeg har travlt i denne uge med at forberede min eksamen."
+  },
+  {
+    "word": "endelig",
+    "translationDE": "endlich",
+    "sentence": "Endelig er ferien begyndt!"
+  },
+  {
+    "word": "gav",
+    "translationDE": "gab",
+    "sentence": "Han gav mig en gave til min fødselsdag."
+  },
+  {
+    "word": "grøn",
+    "translationDE": "grün",
+    "sentence": "Bladene er grøn om sommeren."
+  },
+  {
+    "word": "oh",
+    "translationDE": "oh",
+    "sentence": "Oh, det var virkelig interessant!"
+  },
+  {
+    "word": "hurtig",
+    "translationDE": "schnell",
+    "sentence": "Han er en hurtig løber."
+  },
+  {
+    "word": "udvikle",
+    "translationDE": "entwickeln",
+    "sentence": "Vi vil udvikle nye teknologier for at forbedre miljøet."
+  },
+  {
+    "word": "havet",
+    "translationDE": "das Meer",
+    "sentence": "Havet er dybt og blåt om sommeren."
+  },
+  {
+    "word": "varm",
+    "translationDE": "warm",
+    "sentence": "Det er varm udenfor i dag."
+  },
+  {
+    "word": "fri",
+    "translationDE": "frei",
+    "sentence": "Jeg er fri i weekenden."
+  },
+  {
+    "word": "minut",
+    "translationDE": "Minute",
+    "sentence": "Jeg har kun et minut til at forklare det hele."
+  },
+  {
+    "word": "stærk",
+    "translationDE": "stark",
+    "sentence": "Han er en stærk mand, der kan løfte tunge vægte."
+  },
+  {
+    "word": "særlige",
+    "translationDE": "besondere",
+    "sentence": "De særlige omstændigheder krævede en speciel løsning."
+  },
+  {
+    "word": "sind",
+    "translationDE": "Sinn",
+    "sentence": "Hans sind var roligt og afslappet."
+  },
+  {
+    "word": "bag",
+    "translationDE": "Tasche",
+    "sentence": "Jeg har en stor taske med bøger."
+  },
+  {
+    "word": "hale",
+    "translationDE": "Schwanz",
+    "sentence": "Katten har en lang hale."
+  },
+  {
+    "word": "producere",
+    "translationDE": "produzieren",
+    "sentence": "Virksomheden producerer højtydende elektroniske komponenter."
+  },
+  {
+    "word": "kendsgerning",
+    "translationDE": "Tatsache",
+    "sentence": "Det er en kendsgerning, at jorden er rund."
+  },
+  {
+    "word": "rum",
+    "translationDE": "Raum",
+    "sentence": "Det er et stort rum med høje vinduer."
+  },
+  {
+    "word": "hørt",
+    "translationDE": "gehört",
+    "sentence": "Jeg har hørt den historie mange gange før."
+  },
+  {
+    "word": "bedst",
+    "translationDE": "am besten",
+    "sentence": "Hun er den bedst uddannede person i teamet."
+  },
+  {
+    "word": "time",
+    "translationDE": "Zeit",
+    "sentence": "Jeg har ikke tid til at vente."
+  },
+  {
+    "word": "bedre",
+    "translationDE": "besser",
+    "sentence": "Denne mad er bedre end den mad, jeg spiste i går."
+  },
+  {
+    "word": "sand",
+    "translationDE": "Sand",
+    "sentence": "Børnene legede med sand ved stranden."
+  },
+  {
+    "word": "i løbet af",
+    "translationDE": "während",
+    "sentence": "I løbet af ugen vil jeg besøge min familie."
+  },
+  {
+    "word": "hundrede",
+    "translationDE": "hundert",
+    "sentence": "Der er hundrede elever på skolen."
+  },
+  {
+    "word": "fem",
+    "translationDE": "fünf",
+    "sentence": "Jeg har fem æbler på bordet."
+  },
+  {
+    "word": "huske",
+    "translationDE": "sich erinnern",
+    "sentence": "Jeg kan huske vores første møde meget tydeligt."
+  },
+  {
+    "word": "trin",
+    "translationDE": "Schritt",
+    "sentence": "Vi tager et trin ad gangen."
+  },
+  {
+    "word": "tidligt",
+    "translationDE": "früh",
+    "sentence": "Jeg vågner tidligt hver morgen."
+  },
+  {
+    "word": "vest",
+    "translationDE": "Weste",
+    "sentence": "Han har en flot læder vest på."
+  },
+  {
+    "word": "jorden",
+    "translationDE": "Erde",
+    "sentence": "Jorden er vores hjem."
+  },
+  {
+    "word": "interesse",
+    "translationDE": "Interesse",
+    "sentence": "Jeg har stor interesse for historie og kunst."
+  },
+  {
+    "word": "nå",
+    "translationDE": "nun",
+    "sentence": "Nå, så kan vi begynde."
+  },
+  {
+    "word": "hurtigt",
+    "translationDE": "schnell",
+    "sentence": "Bilen kørte hurtigt ned ad motorvejen."
+  },
+  {
+    "word": "verbum",
+    "translationDE": "Verb",
+    "sentence": "Et verbum er et ord, der beskriver en handling eller tilstand."
+  },
+  {
+    "word": "synge",
+    "translationDE": "singen",
+    "sentence": "Jeg kan lide at synge i bruseren om morgenen."
+  },
+  {
+    "word": "lytte",
+    "translationDE": "zuhören",
+    "sentence": "Jeg kan godt lide at lytte til klassisk musik om aftenen."
+  },
+  {
+    "word": "seks",
+    "translationDE": "sechs",
+    "sentence": "Jeg har seks æbler i min kurv."
+  },
+  {
+    "word": "tabel",
+    "translationDE": "Tabelle",
+    "sentence": "Jeg har lavet en tabel over mine udgifter denne måned."
+  },
+  {
+    "word": "rejser",
+    "translationDE": "reist",
+    "sentence": "Jeg rejser til Tyskland næste sommer."
+  },
+  {
+    "word": "mindre",
+    "translationDE": "kleiner",
+    "sentence": "Det er en mindre bil end den forrige."
+  },
+  {
+    "word": "formiddag",
+    "translationDE": "Vormittag",
+    "sentence": "I formiddag har jeg planlagt at handle ind."
+  },
+  {
+    "word": "ti",
+    "translationDE": "zehn",
+    "sentence": "Jeg har ti fingre på mine hænder."
+  },
+  {
+    "word": "simpelt",
+    "translationDE": "einfach",
+    "sentence": "Det er et simpelt problem at løse."
+  },
+  {
+    "word": "flere",
+    "translationDE": "mehrere",
+    "sentence": "Der er flere biler på parkeringspladsen."
+  },
+  {
+    "word": "vokal",
+    "translationDE": "Vokal",
+    "sentence": "Hver eneste stavelse indeholder mindst en vokal."
+  },
+  {
+    "word": "mod",
+    "translationDE": "gegen",
+    "sentence": "Vi kæmper mod uretfærdighed."
+  },
+  {
+    "word": "krig",
+    "translationDE": "Krieg",
+    "sentence": "Danmark deltog ikke i krigen mellem Rusland og Ukraine."
+  },
+  {
+    "word": "lægge",
+    "translationDE": "legen",
+    "sentence": "Børnene kan lægge puslespillet på gulvet."
+  },
+  {
+    "word": "mønster",
+    "translationDE": "Muster",
+    "sentence": "Dette tæppe har et smukt geometrisk mønster."
+  },
+  {
+    "word": "langsom",
+    "translationDE": "langsam",
+    "sentence": "Han kørte langsom bil gennem byen."
+  },
+  {
+    "word": "centrum",
+    "translationDE": "Zentrum",
+    "sentence": "Byens centrum er fyldt med butikker og caféer."
+  },
+  {
+    "word": "elsker",
+    "translationDE": "lieben",
+    "sentence": "Jeg elsker min familie meget højt."
+  },
+  {
+    "word": "person,",
+    "translationDE": "Person",
+    "sentence": "Hver person har sin egen historie."
+  },
+  {
+    "word": "penge",
+    "translationDE": "Geld",
+    "sentence": "Jeg har ikke mange penge i min pung."
+  },
+  {
+    "word": "tjene",
+    "translationDE": "verdienen",
+    "sentence": "Jeg tjener penge ved at arbejde på et kontor."
+  },
+  {
+    "word": "vej",
+    "translationDE": "Weg",
+    "sentence": "Jeg går en tur ad den lange vej."
+  },
+  {
+    "word": "regn",
+    "translationDE": "Regen",
+    "sentence": "Det begynder at regn udenfor."
+  },
+  {
+    "word": "regel",
+    "translationDE": "Regel",
+    "sentence": "Ifølge reglerne skal man altid køre på højre side af vejen."
+  },
+  {
+    "word": "regere",
+    "translationDE": "regieren",
+    "sentence": "Kongen regerer landet med visdom og retfærdighed."
+  },
+  {
+    "word": "kold",
+    "translationDE": "kalt",
+    "sentence": "Det er meget kold udenfor i dag."
+  }
+]
